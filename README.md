@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-family: 'Comic Sans MS', cursive; font-size: 48px; color: #1a1a1a; margin-bottom: 30px;">
-    Gabriel's Web Page
+    Gabriel's Github
   </h1>
   
   <div style="position: relative; width: 800px; height: 600px; margin: 0 auto; background: linear-gradient(to bottom, #87CEEB, #E0F6FF); padding: 40px; border-radius: 10px; overflow: hidden;">
