@@ -1,5 +1,5 @@
 
-| `dark` ![dark][dark] |
+![dark][dark]
   
 
 [dark]: https://github-readme-stats.vercel.app/api?username=gabeparra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
