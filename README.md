@@ -3,27 +3,38 @@
     Gabriel's Github
   </h1>
   
-  <div style="position: relative; width: 800px; height: 600px; margin: 0 auto; background: linear-gradient(to bottom, #87CEEB, #E0F6FF); padding: 40px; border-radius: 10px; overflow: hidden;">
+  <div style="width: 800px; margin: 0 auto; background: linear-gradient(to bottom, #87CEEB, #E0F6FF); padding: 40px; border-radius: 10px;">
     
-<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+    <td style="width: 150px; vertical-align: middle; text-align: center;">
+        <div style="font-size: 40px; line-height: 1.8;">🍞</div>
+        <div style="font-size: 35px; line-height: 1.8;">⏰</div>
+        <div style="font-size: 45px; line-height: 1.8;">👄</div>
+        <div style="font-size: 40px; line-height: 1.8;">🐛</div>
+        <div style="font-size: 35px; line-height: 1.8;">🔔</div>
+    </td>
+    
+<td style="width: 200px; vertical-align: middle; text-align: center; padding: 20px;">
     <img src="https://github.com/user-attachments/assets/a05bd480-6045-4ad3-ac35-e761aef25167" 
         alt="Gabriel" 
-        style="width: 200px; height: 200px; border-radius: 50%; border: 5px solid #fff; box-shadow: 0 0 20px rgba(0,0,0,0.3); pointer-events: none; user-select: none;">
+        style="width: 200px; height: 200px; border-radius: 50%; border: 5px solid #fff; box-shadow: 0 0 20px rgba(0,0,0,0.3); pointer-events: none; user-select: none; display: block;">
+</td>
+    
+<td style="width: 150px; vertical-align: middle; text-align: center;">
+    <div style="font-size: 50px; line-height: 1.8;">🍞</div>
+    <div style="font-size: 40px; line-height: 1.8;">⏰</div>
+    <div style="font-size: 45px; line-height: 1.8;">👄</div>
+    <div style="font-size: 40px; line-height: 1.8;">🐛</div>
+    <div style="font-size: 35px; line-height: 1.8;">🔔</div>
+</td>
+</tr>
+</table>
+
+<!-- Optional: emoji at top center -->
+<div style="text-align: center; margin-top: 20px;">
+    <span style="font-size: 30px;">😇</span>
 </div>
-
-<div style="position: absolute; top: 30%; left: 8%; font-size: 40px;">🍞</div>
-<div style="position: absolute; top: 40%; left: 5%; font-size: 35px;">⏰</div>
-<div style="position: absolute; top: 50%; left: 10%; transform: translateY(-50%); font-size: 45px;">👄</div>
-<div style="position: absolute; top: 60%; left: 8%; font-size: 40px;">🐛</div>
-<div style="position: absolute; top: 70%; left: 12%; font-size: 35px;">🔔</div>
-
-<div style="position: absolute; top: 25%; right: 8%; font-size: 50px;">🍞</div>
-<div style="position: absolute; top: 35%; right: 5%; font-size: 40px;">⏰</div>
-<div style="position: absolute; top: 50%; right: 10%; transform: translateY(-50%); font-size: 45px;">👄</div>
-<div style="position: absolute; top: 65%; right: 8%; font-size: 40px;">🐛</div>
-<div style="position: absolute; top: 75%; right: 12%; font-size: 35px;">🔔</div>
-
-<div style="position: absolute; top: 5%; left: 50%; transform: translateX(-50%); font-size: 30px;">😇</div>
-
+    
   </div>
 </div>
