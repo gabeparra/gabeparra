@@ -31,7 +31,7 @@ I like solving real problems: killing manual triage, replacing brittle legacy to
 ### Education
 
 B.S. Computer Science, University of Central Florida (expected Aug 2026)
-B.S. Information Technology, Chile
+B.S. Information Technology, Duoc UC, Santiago, Chile (2017)
 
 ### Skills
 
