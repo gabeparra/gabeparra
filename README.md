@@ -1,6 +1,6 @@
 # Gabriel Parra
 
-Full-stack engineer - Business Analyst II @ UCF Global · Founder @ BananaByte LLC
+Full-stack engineer &nbsp;·&nbsp; Business Analyst II @ UCF Global &nbsp;·&nbsp; Founder @ BananaByte LLC
 
 Orlando, FL &nbsp;·&nbsp; [gabrielparra.dev](https://gabrielparra.dev) &nbsp;·&nbsp; [gabriel@gabrielparra.dev](mailto:gabriel@gabrielparra.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gabeparra) &nbsp;·&nbsp; [BananaByte LLC](https://bananabyte.io)
 
