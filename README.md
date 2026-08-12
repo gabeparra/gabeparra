@@ -18,6 +18,7 @@ Orlando, FL &nbsp;·&nbsp; [gabrielparra.dev](https://gabrielparra.dev) &nbsp;·
 
 | Project | Description | Stack |
 |---|---|---|
+| [portbook](https://github.com/gabeparra/portbook) | Local tracker for machines, the ports they serve, what connects to what, and the tickets against them. One self-contained offline Python file - no server, no Docker, no login. | Python, Tailwind |
 | [ChessCadets](https://github.com/LeineckerGames/ChessCadets) | Kids' chess game in Unreal Engine 5 vs. an embedded C++ chess engine, holographic cyberpunk board. Senior design capstone. | Unreal Engine 5, C++, Lumen |
 | [portfolio](https://github.com/gabeparra/portfolio) | This site - gabrielparra.dev | React, Vite |
 | [Margot.AI](https://github.com/gabeparra/Margot.AI) | Full-stack ES/EN pronunciation trainer with real-time feedback via ElevenLabs. Led a cross-functional team end to end. | React, TypeScript, Flask, PostgreSQL, Docker |
