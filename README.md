@@ -23,7 +23,7 @@ Orlando, FL &nbsp;·&nbsp; [gabrielparra.dev](https://gabrielparra.dev) &nbsp;·
 | [portfolio](https://github.com/gabeparra/portfolio) | This site - gabrielparra.dev | React, Vite |
 | [Margot.AI](https://github.com/gabeparra/Margot.AI) | Full-stack ES/EN pronunciation trainer with real-time feedback via ElevenLabs. Led a cross-functional team end to end. | React, TypeScript, Flask, PostgreSQL, Docker |
 | [equipment-rental](https://github.com/gabeparra/equipment-rental) | Access-controlled equipment check-in/out for UCF Global - session auth, server-side status, CSV audit logging. | JavaScript, Python |
-| [Rolling with the Punches](https://github.com/gabeparra/Rolling-with-the-punches-game) | Unity 6 Western-themed 3D game with a mobile port, built for an AI for Game Development course. | Unity 6, C#, HLSL, URP |
+| Rolling with the Punches | Western twin-stick shooter for Android in Unity 6. Touch twin-stick, three view modes, headless build pipeline. Public build targeted for end of October 2026. | Unity 6, C#, URP, Android |
 | [PhoneValidatorJavaApp](https://github.com/gabeparra/PhoneValidatorJavaApp) | Java `libphonenumber` validation wired into Slate admissions intake, eliminating manual phone-format triage. | Java, Slate, bpLogix |
 
 More at [gabrielparra.dev](https://gabrielparra.dev).
