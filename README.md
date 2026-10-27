@@ -29,7 +29,3 @@ B.S. Computer Science, University of Central Florida (2026) &nbsp;·&nbsp; Ingen
 | [Proyecto SAFE](https://github.com/gabeparra/proyecto-safe) | Duoc UC capstone (2017): a WPF desktop app for managing occupational health exams across client companies, backed by WCF/SOAP services. | C#, .NET, WCF |
 
 More at [gabrielparra.dev](https://gabrielparra.dev).
-
----
-
-Open to full-time remote roles. Reach out via [email](mailto:gabriel@gabrielparra.dev) or [LinkedIn](https://linkedin.com/in/gabeparra).
