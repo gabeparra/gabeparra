@@ -2,7 +2,7 @@
 
 Software engineer &nbsp;·&nbsp; Business Systems Analyst II at UCF Global &nbsp;·&nbsp; Founder of BananaByte LLC
 
-Orlando, FL &nbsp;·&nbsp; [gabrielparra.dev](https://gabrielparra.dev) &nbsp;·&nbsp; [gabriel@gabrielparra.dev](mailto:gabriel@gabrielparra.dev) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gabeparra) &nbsp;·&nbsp; [BananaByte LLC](https://bananabyte.io)
+Orlando, FL &nbsp;·&nbsp; [gabrielparra.dev](https://gabrielparra.dev) &nbsp;·&nbsp; [gabpar49@gmail.com](mailto:gabpar49@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gabeparra) &nbsp;·&nbsp; [BananaByte LLC](https://bananabyte.io)
 
 B.S. Computer Science, University of Central Florida (2026) &nbsp;·&nbsp; Ingeniería en Informática, Duoc UC, Santiago, Chile (2017)
 
