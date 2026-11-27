@@ -2,6 +2,8 @@
 
 Software engineer in Orlando, FL, originally from Santiago, Chile (English and Spanish). Writing production software since 2014: ERP and inventory backends, identity workflows, internal web apps, and practical AI tooling. Currently Business Systems Analyst II at UCF Global.
 
+*My GitHub bio says "attempt of software engineer." The attempt started in 2014 and it's going pretty well so far.*
+
 [gabrielparra.dev](https://gabrielparra.dev) · [LinkedIn](https://linkedin.com/in/gabeparra) · [gabpar49@gmail.com](mailto:gabpar49@gmail.com) · Open to remote (US)
 
 ## Production Background
